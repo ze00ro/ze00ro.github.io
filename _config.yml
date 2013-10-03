@@ -1,0 +1,10 @@
+name: 彼得实验室
+markdown: redcarpet
+pygments: true
+
+timezone: Asia/Shanghai
+
+paginate: 5
+paginate_path: "/page/:num"
+
+permalink: /:year/:title.html
