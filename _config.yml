@@ -4,4 +4,4 @@ pygments: true
 
 timezone: Asia/Shanghai
 
-permalink: /:year/:title.html
+permalink: /:title
