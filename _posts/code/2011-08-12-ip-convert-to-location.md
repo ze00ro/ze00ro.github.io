@@ -6,26 +6,15 @@ category: blog
 ---
 
 2012-09-02 By {{ site.author_info }}
-## Yum安装
-1. 升级内核 yum -y update
-2. 安装Apahce, PHP, Mysql, 以及php连接mysql库组件
 
-`yum -y install httpd php mysql mysql-server php-mysql`
-
-3. 安装mysql扩展
-
-`yum -y install mysql-connector-odbc mysql-devel libdbi-dbd-mysql`
-
-`yum -y install httpd php mysql mysql-server php-mysql httpd-manual mod_ssl mod_perl mod_auth_mysql php-mcrypt php-gd php-xml php-mbstring php-ldap php-pear php-xmlrpc mysql-connector-odbc mysql-devel libdbi-dbd-mysql`
+1. http://www.wubiao.info/372
+http://www.wubiao.info/401
+2. http://iamzhongyong.iteye.com/blog/1537114
+3. http://dev.mysql.com/doc/refman/5.1/zh/spatial-extensions-in-mysql.html
+4. http://blog.csdn.net/chaiqi/article/details/5641503
+5. http://digdeeply.org/archives/06152067.html
+http://blog.sina.com.cn/s/blog_62ba0fdd0100tul4.html
+http://tech.idv2.com/2011/06/17/location-search/
 
 
-4. 设置mysql密码
-
-`mysqladmin -u root password ‘newpassword’ [引号内填密码]` 
-
-5. mysql的一些简单设置
-
-    mysql -u root -p 此时会要求你输入刚刚设置的密码，输入后回车即可
-    mysql> DROP DATABASE test; [删除test数据库]
-    mysql> DELETE FROM mysql.user WHERE user = ”; [删除匿名帐户]
-    mysql> FLUSH PRIVILEGES; [重载权限]
+http://script.apbest.info/tools/pwdgenerator

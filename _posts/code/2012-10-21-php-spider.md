@@ -6,9 +6,6 @@ category: code
 tagline: 
 tags: [regex, phpquery, htmlsql, simplehtmldom]
 ---
-{% include JB/setup %}
-
-2012-10-21 By {{ site.author.name }}
 
 ##获取内容##
 
@@ -16,6 +13,34 @@ curl, filegetcontent, fopen的差异
 snoopy类库
 
 ##解析内容##
+
+```php
+/**
+ * Passing by reference
+ *
+ * Outputs
+ *
+ * 10 - before add() call
+ * 10 - after add() call
+ * 15 - after addref() call
+ */
+$a = 10;
+echo $a;
+add($a);
+echo $a;
+addref($a);
+echo $a;
+
+function addref(&$a)
+{
+    $a += 5;
+}
+
+function add($a)
+{
+    $a += 5;
+}
+```
 
 1. 正则
 2. phpquery
