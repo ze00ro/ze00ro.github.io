@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This is just a test what?!"
+title: "关于服务器备份"
 date: 2013-04-09 00:18:08
 categories: program
 tags: 
@@ -9,11 +9,13 @@ tags:
 ## A. 保存到本地 ##
 
 
+
+
+----
+
 ## B. 保存到dropbox ##
 
 更新于2013-09-16, 参考自尘埃落定的 [自动备份网站并同步到 Dropbox][lovelucy]
-
-----
 
 以前的备份方案只是备份到单机, 如果机器出问题, 资料就也出问题, 于是Google到了上传到dropbox的方案, 遂记录一下:
 
@@ -25,7 +27,8 @@ $ wget https://raw.github.com/andreafabrizi/Dropbox-Uploader/master/dropbox_uplo
 $ chmod +x dropbox_uploader.sh
 $ ./dropbox_uploader.sh
 ```
-运行脚本，根据提示设置自己的 Dropbox 应用 API，然后按照步骤设置，就可以使用其命令上传和下载文件了。
+运行脚本, 根据提示设置自己的 Dropbox 应用 API, 然后按照步骤设置, 就可以使用其命令上传和下载文件了.
+第一次上传东西的时候会提示让你到指定地址授权一下, 点过去再回来确定下就可以了.
 
 #### 3. 建立一个备份脚本, 脚本里调用dropbox的操作就可以了.
 
@@ -70,15 +73,19 @@ echo -e "Done"
 cd $BACK_DATA
 # 开始上传到 Dropbox
 echo -e "Start uploading..."
-./dropbox_uploader.sh upload  $BACK_DATA/$DataBakName $DROPBOX_DIR/$DataBakName
-./dropbox_uploader.sh upload  $BACK_DATA/$WebBakName $DROPBOX_DIR/$WebBakName
+-------/dropbox_uploader.sh upload $BACK_DATA/$DataBakName $DROPBOX_DIR/$DataBakName
+-------/dropbox_uploader.sh upload $BACK_DATA/$WebBakName $DROPBOX_DIR/$WebBakName
 
 # 清理 Dropbox 里 30 天前的旧数据
-./dropbox_uploader.sh delete $Old_DROPBOX_DIR/
+-------/dropbox_uploader.sh delete $Old_DROPBOX_DIR/
  
 echo -e "Thank you! All done."
 ```
 
+把脚本里的路径自己改一下, 然后在crontab里增加计划, 就可以了. 运行完后看看dropbox里App/AppName/下就会有以日期为名称的数据了.
+![上传后的截图][1]
 
-[lovelucy]: http://www.lovelucy.info/backup-website-and-sync-to-dropbox.html
-[github-dropbox-uploader]: https://github.com/andreafabrizi/Dropbox-Uploader
+
+  [lovelucy]: http://www.lovelucy.info/backup-website-and-sync-to-dropbox.html
+  [github-dropbox-uploader]: https://github.com/andreafabrizi/Dropbox-Uploader
+  [1]: https://lh3.googleusercontent.com/-05ljwx_Dayw/UlKJuYKv7rI/AAAAAAAAAyM/jmNlLx7pAng/s0/uploaded.jpg "uploaded.jpg"
