@@ -2,10 +2,8 @@
 layout: post
 title: 在centos上搭建LAMP环境
 description: 在centos上搭建LAMP环境
-category: blog
+category: program 
 ---
-
-2012-09-02 By {{ site.author_info }}
 
 1. http://www.wubiao.info/372
 http://www.wubiao.info/401
