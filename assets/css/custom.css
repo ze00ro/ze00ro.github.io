@@ -49,21 +49,34 @@ code,
 
 
 
-.content {
-    padding: 10px;
-}
-
-
-
-
+/* 文章内 */
 p img {
     max-width: 90%;
     margin: 10px 0;
     border: 1px solid #eeeeee;
     box-shadow: 2px 2px 2px #999999;
 }
-
 p code {
     font-weight: bold;
 
 }
+
+
+
+/* 简介页面 */
+#selfintro {
+    position: relative;
+    padding: 0 0 10px;
+}
+    #selfintro h2 {
+        display: inline-block;
+        font-weight: normal;
+    }
+    #selfintro img {
+        width: 90px;
+        border: 1px solid #eee;
+        box-shadow: 2px 2px 2px #999999;
+        position: absolute;
+        right: 10px;
+        bottom: 10px;
+    }
