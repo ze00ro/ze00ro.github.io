@@ -2,33 +2,34 @@
     font-family: "Microsoft Yahei"!important;
 }
 
-.header, .content, .footer {
-    width: 960px;
-    margin: 0 auto;
+.header {
+    overflow: hidden;
 }
-
-
 .header h1 {
-
+    padding-left: 10px;
 }
 .header h1 a {
-    font-size: 20px;
+    font-size: 30px;
     text-decoration: none;
     color: #333;
 }
+.header h1 a:hover {
+    text-decoration: underline;
+}
+
 .header .nav {
     overflow: hidden;
     list-style-type: none;
     border-top: 1px solid #c0c0c0;
     border-bottom: 1px solid #c0c0c0;
-    padding: 5px 10px;
+    padding: 10px;
 }
 .header .nav li {
     float: left;
     margin-right: 10px;
 }
 .header .nav li a {
-    font-size: 14px;
+    font-size: 16px;
     color: #666;
     text-decoration: none;
 }
@@ -36,8 +37,13 @@
     color: #333;
 }
 
+.content {
+    padding: 10px;
+}
+
 .footer {
-    margin: 10px auto 0;
+    margin: 20px auto 0;
+    padding-left: 10px;
     border-top: 1px solid #c0c0c0;
 }
 .footer p {

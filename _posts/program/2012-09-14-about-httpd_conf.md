@@ -2,13 +2,10 @@
 layout: post
 title: apache配置文件的配置
 description: apache配置文件的配置
-category: blog
+category: program 
 tagline: 
 tags: [centos, lamp, beginner, tutorial, apache]
 ---
-{% include JB/setup %}
-
-2012-09-14 By {{ site.author.name }}
 
 ## about redirect
 
