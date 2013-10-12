@@ -2,9 +2,10 @@
 layout: post
 title: PHP下载总结(待整理)
 description: PHP下载总结
-category: program 
-tagline: 
+date: 2012-10-21 00:00:01
+categories: program
 tags: [php, download, header, sendfie]
+
 ---
 
 参考地址: 

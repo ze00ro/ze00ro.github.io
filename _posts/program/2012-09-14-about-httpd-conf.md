@@ -2,9 +2,10 @@
 layout: post
 title: apache配置文件的配置
 description: apache配置文件的配置
-category: program 
-tagline: 
+date: 2012-09-14 00:00:01
+categories: program
 tags: [centos, lamp, beginner, tutorial, apache]
+
 ---
 
 ## about redirect

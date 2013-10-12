@@ -2,7 +2,8 @@
 layout: post
 title: PHP获取内容, 解析内容总结
 description: PHP获取内容, 解析内容总结
-category: code
+date: 2012-11-04 00:00:01
+categories: program
 tagline: 
 tags: [regex, phpquery, htmlsql, simplehtmldom]
 ---

@@ -2,8 +2,10 @@
 layout: post
 title: 在centos上软件源搭建LAMP环境
 tagline:
-category: program
+date: 2012-09-02 00:00:01
+categories: program
 tags: [centos, lamp, beginner, tutorial]
+
 ---
 
 ## Yum安装

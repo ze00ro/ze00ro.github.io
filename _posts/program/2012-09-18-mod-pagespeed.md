@@ -1,14 +1,12 @@
 ---
 layout: post
-title: 在centos64bit使用mod_pagespeed
-description: 在centos64bit使用mod_pagespeed
-category: blog
-tagline: 
+title: "关于使用mod_pagespeed"
+date: 2012-09-18 00:00:01
+categories: program
 tags: [centos, linux, tutorial, pagespeed]
----
-{% include JB/setup %}
 
-2012-09-18 By {{ site.author.name }}
+---
+
 
 如果你在安装的时候出现
 
