@@ -13,7 +13,7 @@ code,
 
 
 #header {
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #999;
 }
     #header a.pure-menu-heading {
         padding: 0;
@@ -27,7 +27,7 @@ code,
 
 
 #footer {
-    border-top: 1px solid #eee;
+    border-top: 1px solid #999;
 }
     #footer .copyright ul {
         list-style-type: none;
@@ -57,15 +57,13 @@ code,
 
 
 p img {
-    width: 100%;
+    max-width: 100%;
     margin: 10px 0;
+    border: 1px solid #eeeeee;
+    box-shadow: 2px 2px 2px #999999;
 }
 
 p code {
     font-weight: bold;
-
-}
-
-.highlight code {
 
 }
