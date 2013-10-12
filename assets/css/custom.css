@@ -1,4 +1,5 @@
 body,
+code,
 .pure-g [class *= "pure-u"],
 .pure-g-r [class *= "pure-u"] {
     font-family: "Microsoft Yahei", Georgia, Times, "Times New Roman", serif;
@@ -28,11 +29,25 @@ body,
 #footer {
     border-top: 1px solid #eee;
 }
-    #footer p {
-        margin: 5px 0;
-        color: #666;
-        font-size: 14px;
+    #footer .copyright ul {
+        list-style-type: none;
     }
+        #footer .copyright ul li {
+            text-align: right;
+            color: #666;
+            font-size: 14px;
+        }
+
+
+.findme ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+    .findme ul li {
+        display: inline;
+    }
+
+
 
 .content {
     padding: 10px;
@@ -44,4 +59,13 @@ body,
 p img {
     width: 100%;
     margin: 10px 0;
+}
+
+p code {
+    font-weight: bold;
+
+}
+
+.highlight code {
+
 }
