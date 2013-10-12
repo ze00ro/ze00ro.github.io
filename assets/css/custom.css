@@ -11,6 +11,10 @@ code,
     margin: 10px auto 0;
 }
 
+.txt-muted {
+    color: #666666;
+}
+
 
 #header {
     border-bottom: 1px solid #999;
