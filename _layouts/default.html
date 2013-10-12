@@ -6,9 +6,10 @@
     <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link rel="stylesheet" href="/assets/css/normalize.css">
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.3.0/pure-min.css">
     <link rel="stylesheet" href="/assets/css/syntax.css">
     <link rel="stylesheet" href="/assets/css/custom.css">
+    <link href='http://fonts.googleapis.com/css?family=Autour+One' rel='stylesheet' type='text/css'>
 
     <script>
         // Google Analytics
@@ -23,22 +24,27 @@
 </head>
 <body>
 
-<div class="header">
-    <h1><a href="/">{{ site.name }}</a></h1>
+<div id="header" class="wrapper">
+    <div class="pure-menu pure-menu-open pure-menu-horizontal">
+        <a href="/" class="pure-menu-heading"><h1>{{ site.name }}</h1></a>
 
-    <ul class="nav">
-        <li><a href="/">关于</a></li>
-        <li><a href="/project">项目</a></li>
-        <li><a href="/program">编程</a></li>
-        <li><a href="/life">生活</a></li>
-    </ul>
+        <ul>
+            <li class="pure-menu-selected"><a href="/">关于</a></li>
+            <li><a href="/project">项目</a></li>
+            <li><a href="/program">编程</a></li>
+            <li><a href="/life">生活</a></li>
+            <li><a href="/entertain">休闲</a></li>
+        </ul>
+    </div>
 </div>
 
-<div class="content">
+
+<div id="content" class="wrapper">
     {{ content }}
 </div>
 
-<div class="footer">
+
+<div id="footer" class="wrapper">
     <p>This is just a Personal Site!</p>
     <p>Thanks to Jekyll, Github...</p>
 </div>
