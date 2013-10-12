@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "为什么不喜欢借钱"
+title: "为什么不喜欢借钱?"
 date: 2013-10-02 03:00:00
 categories: life
 tags: 
@@ -39,8 +39,7 @@ tags:
 
 ----------
 
-这文章不错，可以学习一下
+网上这些文章不错，可以学习一下
 
-[如何借钱不伤和气](http://www.360doc.com/content/09/0403/15/82243_3010428.shtml)
-
+[如何借钱不伤和气](http://www.360doc.com/content/09/0403/15/82243_3010428.shtml),
 [借钱的思考](http://www.360doc.com/content/12/1126/17/1215924_250360033.shtml)
