@@ -15,8 +15,10 @@ code,
 #header {
     border-bottom: 1px solid #999;
 }
-    #header a.pure-menu-heading {
+    #header a.menu-heading {
         padding: 0;
+        text-decoration: none;
+        color: #333333;
     }
         #header a h1 {
             display: inline;
@@ -24,7 +26,25 @@ code,
             font-weight: normal;
             text-transform: none;
         }
-
+    #header .menu ul {
+        list-style-type: none;
+        display: inline-block; *display:inline;
+        margin: 0;
+        overflow: hidden;
+    }
+        #header .menu ul li {
+            display: inline-block; *display:inline;
+            zoom: 1;
+            margin-left: 8px;
+        }
+            #header .menu ul li a {
+                text-decoration: none;
+                color: #333333;
+            }
+            #header .menu ul li a:hover {
+                text-decoration: none;
+                color: #666666;
+            }
 
 #footer {
     border-top: 1px solid #999;
@@ -69,14 +89,14 @@ p code {
     padding: 0 0 10px;
 }
     #selfintro h2 {
-        display: inline-block;
         font-weight: normal;
     }
+
     #selfintro img {
         width: 90px;
         border: 1px solid #eee;
         box-shadow: 2px 2px 2px #999999;
         position: absolute;
         right: 10px;
-        bottom: 10px;
+        bottom: 10px; *bottom: 20px;
     }
