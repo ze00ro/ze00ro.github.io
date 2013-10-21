@@ -89,4 +89,4 @@ echo -e "Thank you! All done."
 
   [lovelucy]: http://www.lovelucy.info/backup-website-and-sync-to-dropbox.html
   [github-dropbox-uploader]: https://github.com/andreafabrizi/Dropbox-Uploader
-  [1]: /uploads/img/dropbox-create-app.jpg "创建"
+  [1]: {{ site.uploads }}img/dropbox-create-app.jpg "创建"

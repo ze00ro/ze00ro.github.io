@@ -4,6 +4,7 @@ pygments: true
 
 timezone: Asia/Shanghai
 siteurl: http://www.peter-lab.com/
-assets: http://ze00ro-peterlab.u.qiniudn.com/
+assets: http://ze00ro-peterlab.u.qiniudn.com/assets/
+uploads: http://ze00ro-peterlab.u.qiniudn.com/uploads/
 
 permalink: /:title
