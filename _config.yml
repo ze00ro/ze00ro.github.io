@@ -3,5 +3,7 @@ markdown: redcarpet
 pygments: true
 
 timezone: Asia/Shanghai
+siteurl: http://www.peter-lab.com/
+assets: http://ze00ro-peterlab.u.qiniudn.com/
 
 permalink: /:title
