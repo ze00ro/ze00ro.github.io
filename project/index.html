@@ -10,12 +10,12 @@ title: "Peter Lab"
         {% for post in site.categories.mindproject %}
         <li>
             <a href="{{ post.url }}">
-                <span>{{ post.date | date: "%Y-%m" }} {{ post.title }}</span>
+                <span>{{ post.date | date: "%Y-%m" }} {{ post.title }} {{ post.status }}</span>
                 <img src="{{ site.uploads }}{{ post.cover }}" />
                 {% if post.status == offline %}
-                下线
+
                 {% else %}
-                在线
+
                 {% endif %}
             </a>
         </li>
