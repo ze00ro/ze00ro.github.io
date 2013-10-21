@@ -3,22 +3,22 @@ layout: default
 title: "Peter Lab"
 ---
 
-
-<div class="home">
+<div class="gallery">
     <h2>没事瞎鼓捣一下</h2>
     <ul class="posts">
         {% for post in site.categories.mindproject %}
         <li>
-            <span>{{ post.date | date: "%Y-%m-%d" }}</span> &raquo;
-            <a href="{{ post.url }}">{{ post.title }}</a>
-            <img src="{{ site.uploads }}{{ post.cover }}" />
+            <a href="{{ post.url }}">
+                <span>{{ post.date | date: "%Y-%m" }} {{ post.title }}</span>
+                <img src="{{ site.uploads }}{{ post.cover }}" />
+            </a>
         </li>
         {% endfor %}
     </ul>
 
     <h2>建站</h2>
     <ul class="">
-        {% for post in site.categories.sohoProject %}
+        {% for post in site.categories.sohoproject %}
         <li>
         </li>
         {% endfor %}
@@ -26,7 +26,7 @@ title: "Peter Lab"
     
     <h2>工作项目</h2>
     <ul class="">
-        {% for post in site.categories.workProject %}
+        {% for post in site.categories.workproject %}
 
         {% endfor %}
     </ul>
