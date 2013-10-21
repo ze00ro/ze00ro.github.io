@@ -143,4 +143,5 @@ p code {
         }
         .gallery ul li img {
             width: 100%;
+            border: 0;
         }
