@@ -151,6 +151,9 @@ p code {
             .gallery ul li span.online {
                 background: green;
             }
+            .gallery ul li span.dev {
+                background: orange;
+            }
         .gallery ul li img {
             width: 100%;
         }

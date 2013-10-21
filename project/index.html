@@ -12,7 +12,7 @@ title: "Peter Lab"
         {% for post in site.categories.mindproject %}
         <li>
             <a href="{{ post.url }}">
-                <span{% if post.status == "online" %} class="online"{% endif %}>{{ post.date | date: "%Y-%m" }} {{ post.title }}</span>
+                <span {% if post.status == "online" %} class="online"{% endif %}>{{ post.date | date: "%Y-%m" }} {{ post.title }}</span>
                 <img src="{{ site.uploads }}{{ post.cover }}?imageView/1/w/280/h/130/q/85" />
             </a>
         </li>
@@ -27,7 +27,7 @@ title: "Peter Lab"
         {% for post in site.categories.sohoproject %}
         <li>
             <a href="{{ post.url }}">
-                <span>{{ post.date | date: "%Y-%m" }} {{ post.title }} {{ post.status }}</span>
+                <span {% if post.status == "online" %} class="online"{% endif %}>{{ post.date | date: "%Y-%m" }} {{ post.title }}</span>
                 <img src="{{ site.uploads }}{{ post.cover }}?imageView/1/w/280/h/130/q/85" />
             </a>
         </li>
@@ -42,7 +42,7 @@ title: "Peter Lab"
         {% for post in site.categories.workproject %}
         <li>
             <a href="{{ post.url }}">
-                <span>{{ post.date | date: "%Y-%m" }} {{ post.title }} {{ post.status }}</span>
+                <span {% if post.status == "online" %} class="online"{% endif %}>{{ post.date | date: "%Y-%m" }} {{ post.title }}</span>
                 <img src="{{ site.uploads }}{{ post.cover }}?imageView/1/w/280/h/130/q/85" />
             </a>
         </li>
