@@ -11,7 +11,7 @@ title: "Peter Lab"
         <li>
             <a href="{{ post.url }}">
                 <span>{{ post.date | date: "%Y-%m" }} {{ post.title }} {{ post.status }}</span>
-                <img src="{{ site.uploads }}{{ post.cover }}" />
+                <img src="{{ site.uploads }}{{ post.cover }}?imageView/1/w/280/h/130/q/85" />
                 {% if post.status == offline %}
 
                 {% else %}
@@ -31,7 +31,7 @@ title: "Peter Lab"
         <li>
             <a href="{{ post.url }}">
                 <span>{{ post.date | date: "%Y-%m" }} {{ post.title }}</span>
-                <img src="{{ site.uploads }}{{ post.cover }}" />
+                <img src="{{ site.uploads }}{{ post.cover }}?imageView/1/w/280/h/130/q/85" />
             </a>
         </li>
         {% endfor %}
@@ -46,7 +46,7 @@ title: "Peter Lab"
         <li>
             <a href="{{ post.url }}">
                 <span>{{ post.date | date: "%Y-%m" }} {{ post.title }}</span>
-                <img src="{{ site.uploads }}{{ post.cover }}" />
+                <img src="{{ site.uploads }}{{ post.cover }}?imageView/1/w/280/h/130/q/85" />
             </a>
         </li>
         {% endfor %}
