@@ -116,6 +116,10 @@ p code {
     }
 
 
+/* 项目页 */
+.gallery h2 {
+    font-weight: normal;
+}
 .gallery ul {
     padding: 4px;
     overflow: hidden;
