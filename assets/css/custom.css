@@ -128,6 +128,7 @@ p code {
         width: 280px;
         height: 130px;
         margin-right: 8px;
+        margin-bottom: 8px;
     }
         .gallery ul li span {
             position: absolute;

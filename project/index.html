@@ -12,6 +12,11 @@ title: "Peter Lab"
             <a href="{{ post.url }}">
                 <span>{{ post.date | date: "%Y-%m" }} {{ post.title }}</span>
                 <img src="{{ site.uploads }}{{ post.cover }}" />
+                {% if post.status == offline %}
+                下线
+                {% else %}
+                在线
+                {% endif %}
             </a>
         </li>
         {% endfor %}
@@ -29,8 +34,8 @@ title: "Peter Lab"
                 <img src="{{ site.uploads }}{{ post.cover }}" />
             </a>
         </li>
-        <div class="clearfix"></div>
         {% endfor %}
+        <div class="clearfix"></div>
     </ul>
 </div>
     
@@ -44,7 +49,7 @@ title: "Peter Lab"
                 <img src="{{ site.uploads }}{{ post.cover }}" />
             </a>
         </li>
-        <div class="clearfix"></div>
         {% endfor %}
+        <div class="clearfix"></div>
     </ul>
 </div>
