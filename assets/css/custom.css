@@ -114,6 +114,7 @@ p code {
 
 
 .gallery ul {
+    padding: 4px;
     overflow: hidden;
 }
     .gallery ul li {
@@ -125,4 +126,19 @@ p code {
         border: 1px solid #999;
         box-shadow: #999 1px 1px 1px;
         width: 300px;
+        height: 150px;
+        margin-right: 8px;
     }
+        .gallery ul li span {
+            position: absolute;
+            background: #999;
+            opacity: .7;
+            color: white;
+            padding: 8px 0;
+            text-align: right;
+            width: 100%;
+            bottom: 0;
+        }
+        .gallery ul li img {
+            width: 100%;
+        }
