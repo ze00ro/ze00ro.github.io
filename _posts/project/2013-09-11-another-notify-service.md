@@ -1,15 +1,15 @@
 ---
 layout: post 
-title: "Another notify service"
+title: "爱追网"
 category: mindproject
-cover: js.png
+cover: img/project/blank.jpg
+status: dev
+
 ---
 
-I always watch watch...
-but not good,
-so I create this service,
-you can:
-it can notify you through:
-so, keep going!!!
 
-Thanks
+这个想法由来已久, 最近也辞职了, 想做出来.
+
+主要提供给没时间追的人一个方便快捷的追剧体验.
+
+开发中...
