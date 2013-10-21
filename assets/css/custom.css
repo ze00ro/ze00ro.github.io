@@ -5,6 +5,10 @@ code,
     font-family: "Microsoft Yahei", Georgia, Times, "Times New Roman", serif;
 }
 
+img {
+    border: 0;
+}
+
 .wrapper {
     overflow: hidden;
     width: 1200px;
@@ -93,7 +97,6 @@ p code {
 }
 
 
-
 /* 简介页面 */
 #selfintro {
     position: relative;
@@ -143,5 +146,4 @@ p code {
         }
         .gallery ul li img {
             width: 100%;
-            border: 0;
         }
