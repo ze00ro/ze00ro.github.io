@@ -3,14 +3,31 @@ layout: default
 title: "Peter Lab"
 ---
 
+
 <div class="home">
+    <h2>没事瞎鼓捣一下</h2>
     <ul class="posts">
-        {% for post in site.categories.project %}
+        {% for post in site.categories.mindProject %}
         <li>
             <span>{{ post.date | date: "%Y-%m-%d" }}</span> &raquo;
             <a href="{{ post.url }}">{{ post.title }}</a>
-            <img src="{{ post.cover }}" />
+            <img src="{{ site.uploads }}{{ post.cover }}" />
         </li>
+        {% endfor %}
+    </ul>
+
+    <h2>建站</h2>
+    <ul class="">
+        {% for post in site.categories.sohoProject %}
+        <li>
+        </li>
+        {% endfor %}
+    </ul>
+    
+    <h2>工作项目</h2>
+    <ul class="">
+        {% for post in site.categories.workProject %}
+
         {% endfor %}
     </ul>
 </div>

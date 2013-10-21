@@ -1,8 +1,8 @@
 ---
 layout: post 
-title: "Another notify service"
+title: "麻球游戏社区"
 category: mindProject
-cover: js.png
+cover: img/project/maqiu365.jpg
 ---
 
 I always watch watch...
