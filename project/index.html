@@ -3,9 +3,10 @@ layout: default
 title: "Peter Lab"
 ---
 
+
+<h2>没事瞎鼓捣一下</h2>
 <div class="gallery">
-    <h2>没事瞎鼓捣一下</h2>
-    <ul class="posts">
+    <ul class="">
         {% for post in site.categories.mindproject %}
         <li>
             <a href="{{ post.url }}">
@@ -14,20 +15,36 @@ title: "Peter Lab"
             </a>
         </li>
         {% endfor %}
+        <div class="clearfix"></div>
     </ul>
+</div>
 
-    <h2>建站</h2>
+<h2>建站</h2>
+<div class="gallery">
     <ul class="">
         {% for post in site.categories.sohoproject %}
         <li>
+            <a href="{{ post.url }}">
+                <span>{{ post.date | date: "%Y-%m" }} {{ post.title }}</span>
+                <img src="{{ site.uploads }}{{ post.cover }}" />
+            </a>
         </li>
+        <div class="clearfix"></div>
         {% endfor %}
     </ul>
+</div>
     
-    <h2>工作项目</h2>
+<h2>工作项目</h2>
+<div class="gallery">
     <ul class="">
         {% for post in site.categories.workproject %}
-
+        <li>
+            <a href="{{ post.url }}">
+                <span>{{ post.date | date: "%Y-%m" }} {{ post.title }}</span>
+                <img src="{{ site.uploads }}{{ post.cover }}" />
+            </a>
+        </li>
+        <div class="clearfix"></div>
         {% endfor %}
     </ul>
 </div>
