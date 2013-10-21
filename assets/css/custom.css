@@ -132,11 +132,11 @@ p code {
         .gallery ul li span {
             position: absolute;
             background: #999;
-            opacity: .7;
+            opacity: .8;
             color: white;
             padding: 8px 0;
-            text-align: right;
-            width: 100%;
+            padding-left: 2%;
+            width: 98%;
             bottom: 0;
         }
         .gallery ul li img {

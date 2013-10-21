@@ -1,8 +1,8 @@
 ---
 layout: post 
-title: "麻球游戏社区"
+title: "武神小说网"
 category: mindproject
-cover: img/project/maqiu365.jpg
+cover: img/project/wushen.jpg
 status: offline
 ---
 
