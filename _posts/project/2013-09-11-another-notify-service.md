@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "Another notify service"
-category: mindProject
+category: mindproject
 cover: js.png
 ---
 
