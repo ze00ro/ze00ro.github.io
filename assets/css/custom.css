@@ -148,6 +148,9 @@ p code {
             bottom: 0;
             font-size: 14px;
         }
+            .gallery ul li span.online {
+                background: green;
+            }
         .gallery ul li img {
             width: 100%;
         }
