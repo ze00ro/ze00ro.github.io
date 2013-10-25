@@ -2,7 +2,7 @@
 layout: post 
 title: "邪恶漫画@微信公众"
 category: mindproject
-cover: img/project/blank.jpg
+cover: img/project/xiee-wechat.jpg
 status: online
 
 ---
