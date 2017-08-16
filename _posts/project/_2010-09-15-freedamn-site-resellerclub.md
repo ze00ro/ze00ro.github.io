@@ -4,6 +4,7 @@ title: "自由之路,域名空间分销"
 category: mindproject
 cover: img/project/freedamn-reseller.jpg
 status: offline
+display: none
 
 ---
 
@@ -18,3 +19,5 @@ status: offline
 
   [1]: {{ site.uploads }}{{ page.cover }}
   [2]: http://www.freedamn.com/
+
+

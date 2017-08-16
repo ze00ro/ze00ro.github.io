@@ -4,24 +4,26 @@ title: "Peter Lab"
 ---
 
 
-<p>记录一下创建/维护时间较长的项目</p>
+<h3>记录一下值得记录的项目</h3>
 
 <div class="gallery">
-    <h2>自己折腾一下</h2>
+    <h2>业余尝试</h2>
     <ul class="">
         {% for post in site.categories.mindproject %}
+        {% if post.display != "none" %}
         <li>
             <a href="{{ post.url }}">
                 <span {% if post.status == "online" %} class="online"{% endif %}>{{ post.date | date: "%Y-%m" }} {{ post.title }}</span>
                 <img src="{{ site.uploads }}{{ post.cover }}?imageView/1/w/280/h/130/q/85" />
             </a>
         </li>
+        {% endif %}
         {% endfor %}
         <div class="clearfix"></div>
     </ul>
 </div>
 
-<div class="gallery">
+<!--<div class="gallery">
     <h2>建站</h2>
     <ul class="">
         {% for post in site.categories.sohoproject %}
@@ -34,18 +36,20 @@ title: "Peter Lab"
         {% endfor %}
         <div class="clearfix"></div>
     </ul>
-</div>
+</div>-->
     
 <div class="gallery">
     <h2>工作项目</h2>
     <ul class="">
         {% for post in site.categories.workproject %}
+        {% if post.display != "none" %}
         <li>
             <a href="{{ post.url }}">
                 <span {% if post.status == "online" %} class="online"{% endif %}>{{ post.date | date: "%Y-%m" }} {{ post.title }}</span>
                 <img src="{{ site.uploads }}{{ post.cover }}?imageView/1/w/280/h/130/q/85" />
             </a>
         </li>
+        {% endif %}
         {% endfor %}
         <div class="clearfix"></div>
     </ul>

@@ -4,6 +4,7 @@ title: "武神小说网"
 category: mindproject
 cover: img/project/wushen.jpg
 status: offline
+display: none
 
 ---
 
@@ -20,3 +21,4 @@ status: offline
 
   [1]: {{ site.uploads }}{{ page.cover }}
   [2]: http://www.guichuideng.org/
+

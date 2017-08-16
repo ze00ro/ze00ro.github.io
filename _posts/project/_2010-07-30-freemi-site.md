@@ -4,6 +4,7 @@ title: "免费域名网"
 category: mindproject
 cover: img/project/freemi.jpg
 status: offline
+display: none
 
 ---
 
@@ -17,3 +18,4 @@ status: offline
 
 
   [1]: {{ site.uploads }}{{ page.cover }}
+
