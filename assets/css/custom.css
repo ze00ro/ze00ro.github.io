@@ -20,7 +20,6 @@ img {
 }
 
 .clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden}
-.clearfix{*+height:1%;}
 
 #header {
     border-bottom: 1px solid #999;
@@ -157,3 +156,18 @@ p code {
         .gallery ul li img {
             width: 100%;
         }
+
+
+.markdown-body {
+    box-sizing: border-box;
+    min-width: 200px;
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 45px;
+}
+
+@media (max-width: 767px) {
+    .markdown-body {
+        padding: 15px;
+    }
+}
