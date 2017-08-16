@@ -1,6 +1,6 @@
 ---
 layout: weekly
-title: "[周常] 开始每周强制自己思考"
+title: "[周常] 开始强制自己每周思考"
 date: 2017-04-29 00:18:08
 categories: article
 tags:

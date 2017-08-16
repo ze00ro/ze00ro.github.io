@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to Jekyll!"
 date: 2012-06-10 00:18:08
-categories: program,article
+categories: article
 tags:
 
 ---
