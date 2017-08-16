@@ -1,15 +1,16 @@
 ---
 layout: default
-title: "About - Peter Lab"
+title: "Peter Lab"
 ---
 
-<div id="selfintro">
-    <img src="{{ site.assets }}img/avatar.jpg" />
-
-    <h2>鬼大师</h2>
-
-    <p>程序员一枚😄, 专注于写代码7年+😓. 侧重于服务端; 热爱移动互联网, 智能设备.</p>
-    <p>比较宅好折腾, 热爱新技术. 富有空想能力, 心血来潮了鼓捣一番, 不计得失.</p>
-    <p>挨踢界日新月异, 深知功力有限, 以谦逊面对世事. 梦想做出killer app :)</p>
-    <p>Stay Hungry, Stay foolish    <span class="txt-muted">-Steve Jobs</span></p>
+<div class="home">
+    <ul class="posts">
+        {% for post in site.categories.article %}
+        <li>
+            <span>{{ post.date | date: "%Y-%m-%d" }}</span> &raquo;
+            <a href="{{ post.url }}">{{ post.title }}</a>
+            <span>{{ post.tagline }}</span>
+        </li>
+        {% endfor %}
+    </ul>
 </div>
