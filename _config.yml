@@ -1,6 +1,7 @@
 name: Peter Lab
 markdown: redcarpet
 pygments: true
+highlighter: rouge
 
 timezone: Asia/Shanghai
 siteurl: http://www.peter-lab.com/
