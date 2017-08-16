@@ -11,6 +11,7 @@ tags:
 今天在看系统里的获取 ip 的代码
 
 ```php
+<?php
 if (isset($_SERVER['HTTP_X_FORWARDED_FOR'])) {
     $arr = explode(',', $_SERVER['HTTP_X_FORWARDED_FOR']);
     $pos = array_search('unknown', $arr);
@@ -36,44 +37,44 @@ HTTP_X_FORWARDED_FOR 可以通过请求头进行伪造. 如果系统通过 ip �
 
 ### 代理时候各参数的值
 
-1. 没有使用代理服务器的情况
+- 没有使用代理服务器的情况
 
 ```
 REMOTE_ADDR = 您的 IP
-HTTP_VIA = 没数值或不显示
-HTTP_X_FORWARDED_FOR = 没数值或不显示
+HTTP_VIA = 没值或不显示
+HTTP_X_FORWARDED_FOR = 没值或不显示
 ```
 
-2. 使用透明代理服务器的情况
-
-```
-REMOTE_ADDR = 最后一个代理服务器 IP
-HTTP_VIA = 代理服务器 IP
-HTTP_X_FORWARDED_FOR = 您的真实 IP ，经过多个代理服务器时，这个值类似如下：203.98.182.163, 203.98.182.163
-```
-
-3. 使用普通匿名代理服务器的情况
+- 使用透明代理服务器的情况
 
 ```
 REMOTE_ADDR = 最后一个代理服务器 IP
 HTTP_VIA = 代理服务器 IP
-HTTP_X_FORWARDED_FOR = 代理服务器 IP ，经过多个代理服务器时，这个值类似如下：203.98.182.163, 203.98.182.163, 203.129.72.215。
+HTTP_X_FORWARDED_FOR = 真实 IP，经多个代理时，值类似：203.98.182.163, 203.98.182.163
 ```
 
-4. 使用欺骗性代理服务器的情况
+- 使用普通匿名代理服务器的情况
+
+```
+REMOTE_ADDR = 最后一个代理服务器 IP
+HTTP_VIA = 代理服务器 IP
+HTTP_X_FORWARDED_FOR = 代理 IP，经多个代理时，值类似：203.98.182.163, 203.98.182.163
+```
+
+- 使用欺骗性代理服务器的情况
 
 ```
 REMOTE_ADDR = 代理服务器 IP
 HTTP_VIA = 代理服务器 IP
-HTTP_X_FORWARDED_FOR = 随机的 IP ，经过多个代理服务器时，这个值类似如下：203.98.182.163, 203.98.182.163, 203.129.72.215。
+HTTP_X_FORWARDED_FOR = 随机 IP，经多个代理时，值类似：203.98.182.163, 203.98.182.163
 ```
 
-5. 使用高匿名代理服务器的情况
+- 使用高匿名代理服务器的情况
 
 ```
 REMOTE_ADDR = 代理服务器 IP
-HTTP_VIA = 没数值或不显示
-HTTP_X_FORWARDED_FOR = 没数值或不显示 ，经过多个代理服务器时，这个值类似如下：203.98.182.163, 203.98.182.163, 203.129.72.215。
+HTTP_VIA = 没值或不显示
+HTTP_X_FORWARDED_FOR = 没值或不显示，经多个代理时，值类似：203.98.182.163, 203.98.182.163
 ```
 
 ----

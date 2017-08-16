@@ -1,6 +1,6 @@
 ---
 layout: weekly
-title: "[周常] 从\"整容\"看未来人的强化"
+title: "[周常] 从 整容 看未来人的强化"
 date: 2017-08-04 00:18:08
 categories: article
 tags:
