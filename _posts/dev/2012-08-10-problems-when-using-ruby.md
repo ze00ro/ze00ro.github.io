@@ -1,8 +1,8 @@
 ---
-layout: post
-title: "使用Ruby时候遇到的问题"
+layout: dev
+title: "使用 Ruby 时候遇到的问题"
 date: 2012-08-10 00:00:00
-categories: program
+categories: article
 tags:
 
 ---
@@ -11,7 +11,7 @@ tags:
 
 ### gems安装非常的慢, 甚至无响应
 
-这个是装jekyll时候遇到的问题, 经查原来是G-F-W搞怪, 这里要感谢 [淘宝gems镜像][taobao],
+这个是装jekyll时候遇到的问题, 经查原来是被墙了... 这里要感谢 [淘宝gems镜像][taobao],
 
 ```bash
 # 查看现有列表
@@ -26,10 +26,12 @@ gem sources -a http://ruby.taobao.org/
 # 在确认一下
 gem sources
 
-# 显示正确的话就可以用gem install xxx了, 速度挺快的
+# 可以迅速的安装啦
 gem install jekyll
 
 ```
 
 
-  [taobao]: http://ruby.taobao.org/
+[taobao]: http://ruby.taobao.org/
+
+
