@@ -2,7 +2,7 @@
 layout: post
 title: "怎么获得用户的上网地址?"
 date: 2012-07-16 00:00:01
-categories: program
+categories: article
 tags: 
 
 ---
@@ -39,3 +39,4 @@ ecshop好像用的这个.
 
 
 ### TODO 移动端待续
+
