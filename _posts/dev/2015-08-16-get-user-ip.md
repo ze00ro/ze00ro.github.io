@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: dev
 title: "客户端 ip 的总结 以及 代理对其的影响"
 date: 2015-08-16 00:00:01
 categories: article
