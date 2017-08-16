@@ -1,6 +1,6 @@
 ---
 layout: weekly
-title: "[周常] 牙科为什么都叫 x尔"?
+title: "[周常] 牙科为什么都叫 'x尔'?"
 date: 2017-08-11 00:18:08
 categories: article
 tags:

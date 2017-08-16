@@ -1,6 +1,5 @@
 name: Peter Lab
-markdown: redcarpet
-pygments: true
+markdown: kramdown
 highlighter: rouge
 
 timezone: Asia/Shanghai
@@ -9,3 +8,7 @@ assets: http://dn-peterlab.qbox.me/assets/
 uploads: http://dn-peterlab.qbox.me/uploads/
 
 permalink: /:title
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
