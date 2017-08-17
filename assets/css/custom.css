@@ -9,9 +9,13 @@ img {
     border: 0;
 }
 
+td {
+    padding: 4px;
+}
+
 .wrapper {
     overflow: hidden;
-    width: 980px;
+    width: 640px;
     margin: 10px auto 0;
 }
 
@@ -39,6 +43,8 @@ img {
         list-style-type: none;
         display: inline-block; *display:inline;
         margin: 0;
+        margin-left: 20px;
+        padding: 0;
         overflow: hidden;
     }
         #header .menu ul li {
@@ -46,6 +52,9 @@ img {
             zoom: 1;
             margin-left: 8px;
         }
+            #header .menu ul li:first-child {
+                margin-left: 0;
+            }
             #header .menu ul li a {
                 text-decoration: none;
                 color: #333333;
@@ -163,11 +172,11 @@ p code {
     min-width: 200px;
     max-width: 980px;
     margin: 0 auto;
-    padding: 15px 25px;
+    padding: 15px 0;
 }
 
 @media (max-width: 767px) {
     .markdown-body {
-        padding: 5px 10px;
+        padding: 5px 0;
     }
 }
