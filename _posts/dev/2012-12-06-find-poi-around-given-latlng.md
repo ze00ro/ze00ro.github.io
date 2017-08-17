@@ -1,8 +1,8 @@
 ---
-layout: post
-title: "给定经纬度计算附近的兴趣点的方法"
+layout: dev
+title: "LBS 给定经纬度计算附近的兴趣点的方法"
 date: 2012-12-06 00:00:01
-categories: program
+categories: article
 tags: 
 
 ---
@@ -20,3 +20,5 @@ http://tech.idv2.com/2011/06/17/location-search/
 
 
 http://script.apbest.info/tools/pwdgenerator
+
+

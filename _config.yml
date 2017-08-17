@@ -3,9 +3,10 @@ markdown: kramdown
 highlighter: rouge
 
 timezone: Asia/Shanghai
-siteurl: http://www.peter-lab.com/
+siteurl: http://me.peter-lab.com/
 assets: http://dn-peterlab.qbox.me/assets/
 uploads: http://dn-peterlab.qbox.me/uploads/
+localimg: /assets/
 
 permalink: /:title
 
