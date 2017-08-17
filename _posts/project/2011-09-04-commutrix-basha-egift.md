@@ -4,6 +4,7 @@ title: "芭莎电子礼品册"
 category: workproject
 cover: img/project/basha.jpg
 status: offline
+display: none
 
 ---
 
@@ -14,3 +15,4 @@ status: offline
 
 
   [1]: {{ site.uploads }}{{ page.cover }}
+

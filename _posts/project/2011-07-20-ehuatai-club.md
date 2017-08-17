@@ -3,7 +3,7 @@ layout: post
 title: "华泰俱乐部"
 category: workproject
 cover: img/project/ehuatai-club.jpg
-status: online
+status: offline
 
 ---
 
@@ -19,3 +19,4 @@ status: online
 
   [1]: {{ site.uploads }}{{ page.cover }}
   [2]: http://club.ehuatai.com/
+

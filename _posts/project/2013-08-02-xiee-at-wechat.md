@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: "邪恶漫画@微信公众"
+title: "邪恶漫画 (公众号)"
 category: mindproject
 cover: img/project/xiee-wechat.jpg
 status: online
@@ -20,3 +20,5 @@ status: online
 
 
   [1]: {{ site.uploads }}img/project/xiee-qrcode.jpg
+
+

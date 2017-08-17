@@ -15,7 +15,7 @@ td {
 
 .wrapper {
     overflow: hidden;
-    width: 640px;
+    width: 767px;
     margin: 10px auto 0;
 }
 
@@ -115,8 +115,9 @@ p code {
     }
 
     #selfintro img {
-        width: 90px;
-        border: 1px solid #eee;
+        width: 120px;
+        /*border: 1px solid #eee;*/
+        border-radius: 6px;
         box-shadow: 2px 2px 2px #999999;
         position: absolute;
         right: 10px;
@@ -129,7 +130,7 @@ p code {
     font-weight: normal;
 }
 .gallery ul {
-    padding: 4px;
+    padding: 0;
     overflow: hidden;
 }
     .gallery ul li {
@@ -140,8 +141,8 @@ p code {
         float: left;
         border: 1px solid #999;
         box-shadow: #999 1px 1px 1px;
-        width: 280px;
-        height: 130px;
+        width: 245px;
+        height: 113px;
         margin-right: 8px;
         margin-bottom: 8px;
     }

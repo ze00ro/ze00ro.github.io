@@ -4,6 +4,7 @@ title: "苹果市论坛"
 category: workproject
 cover: img/project/blank.jpg
 status: offline
+display: none
 
 ---
 
@@ -15,3 +16,4 @@ status: offline
 搭建了苹果市Cydia源, 拷贝178的软件...
 
 得出教训: 实力不雄厚的拷贝就是扇自己的脸...
+

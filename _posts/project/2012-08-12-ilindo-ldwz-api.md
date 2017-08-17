@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: "灵动违章客户端的API"
+title: "灵动违章app的api"
 category: workproject
 cover: img/project/ldwz-a.jpg
 status: offline
@@ -22,3 +22,5 @@ status: offline
 
   [2]: {{ site.uploads }}{{ page.cover }}
   [3]: {{ site.uploads }}img/project/ldwz-b.jpg
+
+

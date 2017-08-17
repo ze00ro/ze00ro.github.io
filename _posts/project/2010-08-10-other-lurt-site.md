@@ -1,9 +1,10 @@
 ---
 layout: post 
 title: "乐土庄园网站"
-category: sohoproject
+category: workproject
 cover: img/project/lurt.jpg
 status: offline
+display: none
 
 ---
 
@@ -19,3 +20,4 @@ status: offline
 
   [1]: {{ site.uploads }}{{ page.cover }}
   [lurt-url]: http://www.lurt.cn/
+

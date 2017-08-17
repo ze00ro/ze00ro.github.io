@@ -1,9 +1,10 @@
 ---
 layout: post 
 title: "爱你宝贝儿童摄影"
-category: sohoproject
+category: workproject
 cover: img/project/loveyoubaby.jpg
 status: online
+display: none
 
 ---
 
@@ -22,3 +23,4 @@ status: online
   [1]: {{ site.uploads }}{{ page.cover }}
   [koken-url]: http://koken.me/
   [love-url]: http://www.gploveyoubaby.com/
+

@@ -1,9 +1,10 @@
 ---
 layout: post 
 title: "27视觉摄影"
-category: sohoproject
+category: workproject
 cover: img/project/27vision.jpg
 status: offline
+display: none
 
 ---
 
@@ -17,3 +18,4 @@ status: offline
 
   [1]: {{ site.uploads }}{{ page.cover }}
   [vision-url]: http://www.27vision.cn/
+
