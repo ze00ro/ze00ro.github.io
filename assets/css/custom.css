@@ -2,7 +2,7 @@ body,
 code,
 .pure-g [class *= "pure-u"],
 .pure-g-r [class *= "pure-u"] {
-    /*font-family: "Microsoft Yahei", Georgia, Times, "Times New Roman", serif;*/
+    font-family: "Menlo", "Courier", serif;
 }
 
 img {

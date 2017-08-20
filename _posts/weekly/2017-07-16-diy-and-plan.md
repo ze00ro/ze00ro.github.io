@@ -1,7 +1,6 @@
 ---
 layout: weekly
-title: "完成第一个大包 和 打卡这件事的思考"
-date: 2017-07-16 00:18:08
+title: "完成第一个大皮包后 计划?"
 categories: article
 tags:
 

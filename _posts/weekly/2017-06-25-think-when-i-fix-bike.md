@@ -1,7 +1,6 @@
 ---
 layout: weekly
-title: "动手补胎时的思考, 重新体验共享单车"
-date: 2017-06-25 00:18:08
+title: "补胎时思考 共享单车"
 categories: article
 tags:
 

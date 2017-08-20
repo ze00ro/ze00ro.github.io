@@ -1,7 +1,6 @@
 ---
 layout: weekly
-title: "过去到未来 可能的 老师学生比例"
-date: 2017-07-21 00:18:08
+title: "过去到未来 老师学生比例"
 categories: article
 tags:
 

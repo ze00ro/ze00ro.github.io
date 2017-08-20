@@ -1,7 +1,6 @@
 ---
 layout: weekly
-title: "皮艺, 美甲与一些技能的相似性"
-date: 2017-05-06 00:18:08
+title: "皮艺, 美甲等的相似性"
 categories: article
 tags:
 

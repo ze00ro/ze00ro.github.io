@@ -1,7 +1,6 @@
 ---
 layout: dev
-title: "LBS 给定经纬度计算附近的兴趣点的方法"
-date: 2012-12-06 00:00:01
+title: "LBS 查附近兴趣点优化"
 categories: article
 tags: 
 

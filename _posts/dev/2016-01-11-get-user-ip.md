@@ -1,6 +1,6 @@
 ---
 layout: dev
-title: "客户端 ip 的总结 以及 代理对其的影响"
+title: "获取 客户端 ip 与代理"
 date: 2016-01-01 00:00:01
 categories: article
 tags: 
