@@ -1,7 +1,6 @@
 ---
-layout: weekly
+layout: post
 title: "iPhone 怎么录屏"
-date: 2016-08-11 00:18:08
 categories: article
 tags:
 
