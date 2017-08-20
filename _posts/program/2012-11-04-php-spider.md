@@ -1,27 +1,28 @@
 ---
-layout: post
-title: PHP获取内容, 解析内容总结
-description: PHP获取内容, 解析内容总结
-date: 2012-11-04 00:00:01
-categories: program
+layout: dev
+title: PHP 获取内容, 解析内容总结
+categories: [article, program]
 tagline: 
-tags: [regex, phpquery, htmlsql, simplehtmldom]
+
 ---
 
-##获取内容##
+### 获取内容
 
-curl, filegetcontent, fopen的差异
-snoopy类库
+php 获取 http 的内容主要有三种方法 `curl`, `file_get_contents`, `fsockopen`. 有很多的类库比如 snoopy, guzzle, requests 都是基于他们的封装.
 
-##解析内容##
+- file_get_contents 每次请求都会重新做DNS查询，并不对DNS信息进行缓存。curl 可以.
+- file_get_contents 也可以做 post 等其他类型发送, 但是可定制参数不多, 不够强大.
+- fsockopen 很强大, curl 能做的, 它都能做, 反之则不行. 但是它太偏底层, 输入输出都需要自己处理.
 
-1. 正则
-2. phpquery
-3. simplehtmldom
-4. TextPatternParser
+所以 curl 方便, 易读, 强大.
 
-##共享内容##
+### 解析内容
 
-ci的获取内容整合类
+有一些库可以像 js 操作 dom 一样获取 html 内容, 特别方便
 
-参考地址: [ci类库总结](http://codeigniter.org.cn/forums/thread-14634-1-1.html "参考内容")
+- phpquery
+- simplehtmldom
+- domcrawler
+
+但是他们占用的内存极高, 要及时销毁, 有时候遇到一些简单的, 或者特别复杂的, 或者 html 无法解析的, 还是倾向于直接用正则去取.
+

@@ -1,24 +1,23 @@
 ---
 layout: post
-title: "使用Jekyll时候遇到的问题"
+title: "使用 Jekyll 时候遇到的问题"
 date: 2012-07-09 00:00:00
-categories: program
+categories: [article, program]
 tags:
 
 ---
 
-### 很多可以参考
+### 可以参考
 
 刚开始可以跟着BeiYuu做 [使用Github Pages建独立博客][beiyuu] 写的很明了,
 
 更加深入的可以参考 [Jekyll][jekyll] 的官方文档,
 
-[Github-pages页面][pages] 也有详细的说明, 404页面, 绑定域名的方法都在这里可以找到.
-
+[Github-pages页面][pages] 有介绍是什么, 怎么用, 绑定域名都在这里.
 
 ### 我是怎么搭建环境的
 
-我习惯用vagrant做部署, 而在windows下做开发, 所以jekyll搭建到了vagrant里的ubuntu里.
+我习惯用 vagrant 做部署, 而在 windows 下做开发, 所以 jekyll 搭建到了 vagrant 里的 ubuntu 里.
 
 ```bash
 # 我初始化了一个precise64的box
@@ -43,6 +42,27 @@ jekyll serve
 
 这样, 就可以在本机调调页面结构, 写写看看后再push到服务器了.
 
+### gems安装非常的慢, 甚至无响应
+
+这个是装jekyll时候遇到的问题, 经查原来是被墙了... 这里要感谢 [淘宝gems镜像][taobao],
+
+```bash
+# 查看现有列表
+gem sources
+
+# 如果现有列表是rubygems.org就删了它
+gem sources --remove https://rubygems.org/
+
+# 增加淘宝的
+gem sources -a http://ruby.taobao.org/
+
+# 在确认一下
+gem sources
+
+# 可以迅速的安装啦
+gem install jekyll
+
+```
 
 ### 记录一些问题
 
@@ -55,10 +75,9 @@ set LC_ALL=en_US.UTF-8
 set LANG=en_US.UTF-8
 ```
 
-c.
-
-
-
   [pages]: http://pages.github.com/
   [jekyll]: http://jekyllrb.com/
   [beiyuu]: http://beiyuu.com/github-pages/
+  [taobao]: http://ruby.taobao.org/
+
+

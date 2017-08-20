@@ -1,24 +1,14 @@
 ---
-layout: post
-title: "关于服务器备份"
-date: 2013-04-09 01:01:01
-categories: program
+layout: dev
+title: "服务器备份到 dropbox"
+categories: [article, program]
 tags: 
 
 ---
 
-### A. 保存到本地 ##
+参考自尘埃落定的 [自动备份网站并同步到 Dropbox][lovelucy]
 
-
-
-
-----
-
-### B. 保存到dropbox ##
-
-更新于2013-09-16, 参考自尘埃落定的 [自动备份网站并同步到 Dropbox][lovelucy]
-
-以前的备份方案只是备份到单机, 如果机器出问题, 资料就也出问题. 于是Google到了上传到dropbox的方案, 遂记录一下:
+以前的备份方案只是备份到单机, 如果机器出问题, 资料就也出问题. 于是 Google 到了上传到dropbox 的方案, 遂记录一下:
 
 #### 1. 登录到dropbox, 建立个dropbox api app, 获得 `app-key` 和 `app-secret`.
 #### 2. 下载一个开源的dropbox api脚本 [Dropbox-Uploader][github-dropbox-uploader], 这样可以在linux shell里直接用命令操作了:
@@ -90,3 +80,5 @@ echo -e "Thank you! All done."
   [lovelucy]: http://www.lovelucy.info/backup-website-and-sync-to-dropbox.html
   [github-dropbox-uploader]: https://github.com/andreafabrizi/Dropbox-Uploader
   [1]: {{ site.uploads }}img/dropbox-create-app.jpg "创建"
+
+

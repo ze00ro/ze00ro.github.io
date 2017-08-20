@@ -58,6 +58,7 @@ td {
             #header .menu ul li a {
                 text-decoration: none;
                 color: #333333;
+                font-size: 18px;
             }
             #header .menu ul li a:hover {
                 text-decoration: none;
@@ -163,6 +164,28 @@ td {
             width: 100%;
         }
 
+/* 休闲页面 */
+.douban_image_wrapper tr:first-child img {
+    box-shadow: 2px 2px 2px #999999;
+    border-radius: 6px;
+}
+
+.image_wrapper {
+    overflow: hidden;
+    padding: 4px 0;
+}
+.image_wrapper img {
+    float: left;
+    max-width: 170px;
+    max-height: 200px;
+    vertical-align: middle;
+    margin-left: 8px;
+    box-shadow: 2px 2px 2px #999999;
+    border-radius: 6px;
+}
+.image_wrapper img:first-child {
+    margin-left: 0;
+}
 
 .markdown-body {
     box-sizing: border-box;
@@ -175,5 +198,33 @@ td {
 @media (max-width: 767px) {
     .markdown-body {
         padding: 5px 0;
+    }
+
+    .wrapper {
+        width: 100%;
+        margin: 2px auto 0;
+    }
+
+    #selfintro img {
+        position: initial;
+    }
+
+    #header .menu ul {
+        margin-left: 0;
+    }
+
+    #header a.menu-heading {
+        display: block;
+    }
+
+    .gallery ul li {
+        width: 99%;
+        height: auto;
+        float: none;
+        min-height: 100px;
+    }
+
+    .image_wrapper {
+        width: 767px;
     }
 }

@@ -1,12 +1,10 @@
 ---
-layout: post
-title: "安装mcrypt总结"
-date: 2012-09-17 00:00:01
-categories: program
+layout: dev
+title: "安装 mcrypt"
+categories: [article, program]
 tags:
 
 ---
-
 
 安装phpmyadmin的时候遇到的问题
 
@@ -23,16 +21,16 @@ wget http://cdnetworks-kr-1.dl.sourceforge.net/project/mcrypt/MCrypt/2.6.8/mcryp
 tar zxvf libmcrypt-2.5.8.tar.gz
 tar zxvf mhash-0.9.9.9.tar.gz
 tar zxvf mcrypt-2.6.8.tar.gz
-//安装libmcrypt
+// 安装 libmcrypt
 cd /tmp/libmcrypt-2.5.8
 ./configure --prefix=/usr
 make && make install
-//安装libmcrypt
+// 安装 mhash
 cd /tmp/mhash-0.9.9.9
 ./configure --prefix=/usr
 make && make install
-//安装mcrypt
-/sbin/ldconfig //搜索出可共享的动态链接库
+// 安装 mcrypt
+/sbin/ldconfig // 搜索出可共享的动态链接库
 cd /tmp/mcrypt-2.6.8
 ./configure
 make && make install
@@ -51,8 +49,8 @@ yum install gcc gcc-c++ gcc-g77
 如果按照上面执行操作还是不行的话，请执行：
 
 ```bash
-yum clear all  //清除yum所有缓存
-yum update   //更新yum
+yum clear all  // 清除yum所有缓存
+yum update   // 更新yum
 yum install gcc gcc-c++ gcc-g77
 
 rpm -ivh http://download.fedoraproject.org/pub/epel/6/x86_64/epel-release-6-7.noarch.rpm
@@ -64,9 +62,11 @@ yum install php-mcrypt
 
 updated@2013-07-18
 
-ubuntu里面方便很多, 现在也一直在用ubuntu. 直接运行
+ubuntu 里面方便很多, 现在也一直在用 ubuntu. 直接运行
 
 ```bash
 apt-get install php5-mcrypt
 
 ```
+
+

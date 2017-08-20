@@ -1,8 +1,7 @@
 ---
-layout: post
-title: "关于使用mod_pagespeed"
-date: 2012-09-18 00:00:01
-categories: program
+layout: dev
+title: "关于使用 mod_pagespeed"
+categories: [article, program]
 tags: [centos, linux, tutorial, pagespeed]
 
 ---
@@ -31,6 +30,7 @@ OK，现在开始安装mod-pagespeed
 
 要确认 mod_pagespeed 是否有运作, 可以查看 phpinfo(); 页面, 在 HTTP Headers Information 可以看到 X-Mod-Pagespeed 0.9.0.0-128
 
-项目主页： http://code.google.com/speed/page-speed/docs/module.html
-插件下载地址： http://code.google.com/speed/page-speed/download.html
-开源项目地址： http://code.google.com/p/modpagespeed/
+---
+
+[page speed 地址](http://code.google.com/p/modpagespeed/)
+
