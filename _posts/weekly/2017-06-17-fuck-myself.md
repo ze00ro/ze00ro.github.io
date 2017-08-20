@@ -1,6 +1,6 @@
 ---
 layout: weekly
-title: "[周常] 我像掘地蜂一样活着"
+title: "我像掘地蜂一样活着"
 date: 2017-06-17 00:18:08
 categories: article
 tags:

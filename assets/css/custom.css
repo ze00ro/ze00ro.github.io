@@ -90,19 +90,14 @@ td {
         display: inline;
     }
 
-
-
-/* 文章内 */
-p img {
-    max-width: 90%;
-    margin: 10px 0;
-    border: 1px solid #eeeeee;
-    box-shadow: 2px 2px 2px #999999;
+/* 文章列表 */
+.posts {
+    list-style-type: none;
+    padding: 0;
 }
-p code {
-    font-weight: bold;
-
-}
+    .posts li {
+        padding: 2px 0;
+    }
 
 
 /* 简介页面 */
@@ -140,11 +135,12 @@ p code {
         zoom: 1;
         float: left;
         border: 1px solid #999;
-        box-shadow: #999 1px 1px 1px;
+        box-shadow: 1px 1px 1px #999;
         width: 245px;
         height: 113px;
         margin-right: 8px;
         margin-bottom: 8px;
+        border-radius: 6px;
     }
         .gallery ul li span {
             position: absolute;

@@ -1,6 +1,6 @@
 ---
 layout: weekly
-title: "[周常][技术] 点赞量太少, 做点假数据"
+title: "点赞量太少, 做点假数据"
 date: 2017-07-01 00:18:08
 categories: article
 tags:

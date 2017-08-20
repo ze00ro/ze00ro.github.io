@@ -1,6 +1,6 @@
 ---
 layout: weekly
-title: "[周常] 为什么天气预报测不准"
+title: "为什么天气预报测不准"
 date: 2017-06-22 00:18:08
 categories: article
 tags:

@@ -1,6 +1,6 @@
 ---
 layout: weekly
-title: "[周常] 肯德基比麦当劳厉害吗?"
+title: "肯德基比麦当劳厉害吗?"
 date: 2017-07-30 00:18:08
 categories: article
 tags:

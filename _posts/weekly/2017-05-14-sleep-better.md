@@ -1,6 +1,6 @@
 ---
 layout: weekly
-title: "[周常] 关于失眠的总结和建议"
+title: "关于失眠的总结和建议"
 date: 2017-05-14 00:18:08
 categories: article
 tags:

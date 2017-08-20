@@ -3,12 +3,39 @@ layout: default
 title: "Entertain - Peter Lab"
 ---
 
+<style>
+    .douban_image_wrapper tr:first-child img {
+        box-shadow: 2px 2px 2px #999999;
+        border-radius: 6px;
+    }
+
+    .image_wrapper {
+        overflow: hidden;
+        padding: 4px 0;
+    }
+    .image_wrapper img {
+        float: left;
+        max-width: 170px;
+        max-height: 200px;
+        vertical-align: middle;
+        margin-left: 8px;
+        box-shadow: 2px 2px 2px #999999;
+        border-radius: 6px;
+    }
+    .image_wrapper img:first-child {
+        margin-left: 0;
+    }
+</style>
 
 <h3>豆瓣电影流</h3>
+<div class="douban_image_wrapper">
 <script type="text/javascript" src="http://www.douban.com/service/badge/ze00ro/?selection=latest&amp;picsize=medium&amp;hideself=on&amp;show=collection&amp;n=7&amp;cat=drama%7Cmovie&amp;columns=7"></script>
+</div>
 
 <h3>豆瓣读书流</h3>
+<div class="douban_image_wrapper">
 <script type="text/javascript" src="http://www.douban.com/service/badge/ze00ro/?selection=latest&amp;picsize=medium&amp;hideself=on&amp;show=collection&amp;n=7&amp;cat=book%7Cmusic&amp;columns=7"></script>
+</div>
 
 <h3>学习做皮具</h3>
 <!--<a href="http://www.shougongke.com/user/17883027.html"></a>-->
@@ -44,19 +71,3 @@ title: "Entertain - Peter Lab"
 
 <!--<h3>我的演奏</h3>-->
 <!-- todo 播放器 -->
-
-<style>
-    .image_wrapper {
-        overflow: hidden;
-    }
-    .image_wrapper img {
-        float: left;
-        max-width: 170px;
-        max-height: 200px;
-        vertical-align: middle;
-        margin-left: 8px;
-    }
-    .image_wrapper img:first-child {
-        margin-left: 0;
-    }
-</style>

@@ -1,6 +1,6 @@
 ---
 layout: weekly
-title: "[周常] AlphaGo 并没有想过挑战人类"
+title: "AlphaGo 并没有想过挑战人类"
 date: 2017-05-29 00:18:08
 categories: article
 tags:

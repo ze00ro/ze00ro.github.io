@@ -1,6 +1,6 @@
 ---
 layout: weekly
-title: "[周常][技术] HTTP 协议 与 恋爱关系升级"
+title: "HTTP 协议 与 恋爱关系升级"
 date: 2017-06-11 00:18:08
 categories: article
 tags:

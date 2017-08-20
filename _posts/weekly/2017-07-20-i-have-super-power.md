@@ -1,6 +1,6 @@
 ---
 layout: weekly
-title: "[周常] 我是一个超能力者!"
+title: "我是一个超能力者!"
 date: 2017-07-20 00:18:08
 categories: article
 tags:

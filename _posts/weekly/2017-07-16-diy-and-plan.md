@@ -1,6 +1,6 @@
 ---
 layout: weekly
-title: "[周常] 完成第一个大包 和 打卡这件事的思考"
+title: "完成第一个大包 和 打卡这件事的思考"
 date: 2017-07-16 00:18:08
 categories: article
 tags:
