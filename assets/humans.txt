@@ -1,0 +1,16 @@
+/* Desc */
+
+	I have a dream!
+
+/* TEAM */
+
+	Peter G.
+	4weeee(at)gmail.com
+
+
+/* THANKS */
+
+	Powered by Jekyll
+	Host on Github
+	Pure css framework
+	...
