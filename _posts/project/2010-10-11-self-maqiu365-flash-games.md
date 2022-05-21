@@ -7,17 +7,21 @@ status: offline
 
 ---
 
+Flash 游戏时代的社交平台，那个年代小游戏还是单机为主，
 
-无意间发现了mochimedia, 是一个flash小游戏平台, 人们可以提交flash游戏, 在游戏中集成他们的api;
+MochiMedia 这个平台可以提供接口，Flash 游戏`开发者`接入后，可以拥有奖牌榜功能。
 
-我是做发布者, 把游戏和sns结合在一起, 基于uchome, 会员玩游戏得分会发布消息出去, 可以和全球的玩家排名.
+我建立的这个社区是对接了`发布者`接口，结合 uchome，把社区和小游戏紧密结合。
+
+比如在小游戏里产生的动态会发布到社区里，拿到奖牌会获得社区积分等级等奖励。
+
+在小游戏里看到的奖牌榜也可以点击头像到对应的 sns 主页。
 
 
-参考: [麻球365][2], [MochiMedia][3]
+<hr/>
+参考: [MochiMedia 已失效]
 
 ![网站截图][1]
 
 
   [1]: {{ site.uploads }}{{ page.cover }}
-  [2]: http://www.maqiu365.com/
-  [3]: http://www.mochimedia.com/

@@ -4,6 +4,7 @@ title: "邪恶漫画 (公众号)"
 category: mindproject
 cover: img/project/xiee-wechat.jpg
 status: offline
+display: none
 
 ---
 

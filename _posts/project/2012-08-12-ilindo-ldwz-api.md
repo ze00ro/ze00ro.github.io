@@ -1,26 +1,30 @@
 ---
 layout: post 
-title: "灵动违章app的api"
+title: "灵动车友"
 category: workproject
-cover: img/project/ldwz-a.jpg
+cover: img/project/syb-a.jpg
 status: offline
 
 ---
 
 
-灵动违章客户端是一个ios应用, 主要提供违章查询和代办服务, 附属的也提供了违章高发地查询, 天气, 限行信息, 还有一个答题活动, 题目来自于驾考.
+灵动车友客户端是两个手机应用, 主要提供违章查询，代办，油站查询，油卡购买, 油站查询。
 
-这个服务端和上一个项目, 省油宝, 使用一样的程序, 主要增加了代办的功能, 活动及其奖励的功能等.
+附属的也提供了违章高发地查询, 天气, 限行信息, 还有一个答题活动, 题目来自于驾考。
+
+我主要负责了整个服务端的设计和开发。
 
 
+![截图][1]
 ![截图][2]
-
-功能菜单截图
-
 ![截图][3]
+![截图][6]
+![截图][7]
 
-
-  [2]: {{ site.uploads }}{{ page.cover }}
-  [3]: {{ site.uploads }}img/project/ldwz-b.jpg
+[1]: {{ site.uploads }}{{ page.cover }}
+[2]: {{ site.uploads }}img/project/syb-b.jpg
+[3]: {{ site.uploads }}img/project/syb-c.jpg
+[6]: {{ site.uploads }}img/project/ldwz-a.jpg
+[7]: {{ site.uploads }}img/project/ldwz-b.jpg
 
 

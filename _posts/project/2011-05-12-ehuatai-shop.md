@@ -4,6 +4,7 @@ title: "华泰商城"
 category: workproject
 cover: img/project/ehuatai-shop.jpg
 status: online
+display: none
 
 ---
 

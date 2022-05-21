@@ -4,6 +4,7 @@ title: "华泰俱乐部"
 category: workproject
 cover: img/project/ehuatai-club.jpg
 status: offline
+display: none
 
 ---
 
