@@ -4,8 +4,6 @@ title: "项目 - Peter Lab"
 ---
 
 
-<h2>一些主要的项目</h2>
-
 <div class="gallery">
     <h3>业余想法尝试</h3>
     <ul class="">
@@ -14,7 +12,7 @@ title: "项目 - Peter Lab"
         <li>
             <a href="{{ post.url }}">
                 <span {% if post.status == "online" %} class="online"{% endif %}>{{ post.date | date: "%Y" }} {{ post.title }}</span>
-                <img src="{{ site.uploads }}{{ post.cover }}?imageView/1/w/280/h/130/q/85" />
+                <img src="{{ site.uploads }}{{ post.cover }}" />
             </a>
         </li>
         {% endif %}
@@ -24,14 +22,14 @@ title: "项目 - Peter Lab"
 </div>
 
 <div class="gallery">
-    <h3>工作项目</h3>
+    <h3>主要的工作项目</h3>
     <ul class="">
         {% for post in site.categories.workproject %}
         {% if post.display != "none" %}
         <li>
             <a href="{{ post.url }}">
                 <span {% if post.status == "online" %} class="online"{% endif %}>{{ post.date | date: "%Y" }} {{ post.title }}</span>
-                <img src="{{ site.uploads }}{{ post.cover }}?imageView/1/w/280/h/130/q/85" />
+                <img src="{{ site.uploads }}{{ post.cover }}" />
             </a>
         </li>
         {% endif %}
