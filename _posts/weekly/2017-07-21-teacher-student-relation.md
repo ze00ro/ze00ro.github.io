@@ -30,5 +30,5 @@ tags:
 
 这可能也是一个不连续性颠覆式案例?
 
-![老师学生比例关系](http://upload-images.jianshu.io/upload_images/1286586-76e4a4bfef4b4050.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![老师学生比例关系](https://upload-images.jianshu.io/upload_images/1286586-76e4a4bfef4b4050.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 

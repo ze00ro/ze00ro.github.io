@@ -9,7 +9,7 @@ tags:
 
 **问题是: 我们做了个新 app, 然而点赞量太少, 需要做点假数据** 其实这个跟很多店面雇黄牛排队, 游戏里雇美女玩家应该都是一样的道理(当然了, 有很多都是抠脚大汉的美女头像). 关键是怎么能让人觉得不是假的? 这里是一点思考.
 
-![点赞](http://upload-images.jianshu.io/upload_images/1286586-41bdcdd3fce6272c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![点赞](https://upload-images.jianshu.io/upload_images/1286586-41bdcdd3fce6272c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 先看几个概念
 
@@ -23,19 +23,19 @@ tags:
 
 **人类行为是具有爆发性的**: 总是在短时间内点好几个赞, 而其它时间是寂静的. 所以我定义出了一些时间. 一个任务控制用户睡觉, 一个任务控制用户醒来. 时间在作息时间和特殊情况的作用下, 渐渐变得不同.
 
-![时间定义](http://upload-images.jianshu.io/upload_images/1286586-9f654f4b2591aef6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![时间定义](https://upload-images.jianshu.io/upload_images/1286586-9f654f4b2591aef6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 **给特定人点赞的总是那么几个人**: 我不知道别人的是怎么样的, 反正给我点赞的总是那么些人. 所以更多的是出于对内容, 还是人的喜欢? 不过有一点是明确的, 人类本身并不会发出随机的喜欢(**然而不可辨识的随机是不是会被认为是复杂?**) 所以我加入了一点个人喜好: 
 
-![喜好定义](http://upload-images.jianshu.io/upload_images/1286586-ee0a98235ef91268.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![喜好定义](https://upload-images.jianshu.io/upload_images/1286586-ee0a98235ef91268.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 当然喜好的结论也不是确定的, 喜好给出概率, 概率给出是否赞的结果. 一个用户可以综合几个类型, 导致不确定性.
 
-![喜好>概率>结果](http://upload-images.jianshu.io/upload_images/1286586-ae419ee3ecd76feb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![喜好>概率>结果](https://upload-images.jianshu.io/upload_images/1286586-ae419ee3ecd76feb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 现在只是简单的结构上的喜好, 并没有加入对内容的判断. 也可能会导致有些没考虑到的情况. 所以加入了几种低概率的随机: 
 
-![低概率的随机事件](http://upload-images.jianshu.io/upload_images/1286586-41450f643d0120e9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![低概率的随机事件](https://upload-images.jianshu.io/upload_images/1286586-41450f643d0120e9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 可以改进的地方还有很多, 但是有一点可以明确: 如果把程序当做一件很好玩的事情, 那确实会很好玩. 
 

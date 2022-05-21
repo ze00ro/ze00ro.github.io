@@ -13,7 +13,7 @@ tags:
 
 那为什么不写个程序, 每天随机给一个答案? 我确实写了一个, 没有什么高深的算法, 就是简单的在某个地理范围内, 不吃上顿吃过的, 限定价格范围, 不吃辣的, **随机一个去吃, 简单粗暴. 谁又能说你自己选的不是数花瓣数出来的呢?**
 
-![first worst](http://upload-images.jianshu.io/upload_images/1286586-5a041b9f3de1367a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![first worst](https://upload-images.jianshu.io/upload_images/1286586-5a041b9f3de1367a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 刚开始的几天还是不错的, 后来不知道是因为算法太弱, 还是作为人类的优越感, 我并不想让机器决定我的一餐. 这有什么难以接受的? 这和滴滴叫个车, 叫个外卖有什么本质区别吗? **机器把信息聚合起来, 帮助懒惰的人类.**
 

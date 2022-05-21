@@ -9,7 +9,7 @@ tags:
 
 > 听完李善友教授超长大课后, 感叹自己的专注力之弱, 教授专注的讲了一天, 而我一会想吃喝, 一会走神, but, 仍然感觉好有道理, 非常 amazing, 先记录下第一部分的简单思考.
 
-![李善友教授](http://upload-images.jianshu.io/upload_images/1286586-f41fcd70b0ea84ef.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![李善友教授](https://upload-images.jianshu.io/upload_images/1286586-f41fcd70b0ea84ef.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 循环
 

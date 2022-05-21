@@ -14,7 +14,7 @@ tags:
 
 在脑中先有个大概想法, 比方说想做个卡包, 有几个卡位, 卡有多大, 厚度, 成型样子; 设计师还会有独特的设计: 颜色, 皮料风格, 结构; 小工可能更多的去模仿; 小小工可能更多的去复制.
 
-![画与划](http://upload-images.jianshu.io/upload_images/1286586-ec4b23e23c23899e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![画与划](https://upload-images.jianshu.io/upload_images/1286586-ec4b23e23c23899e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 打版
 
@@ -22,25 +22,25 @@ tags:
 
 > 前面两个步骤更侧重于创造和计划, 觉得每种技术都是从下面的基础技能上升到那个层面, 所以都是相通的吗? 而这两部尤其重要, 如果版没打好, 在成品中的问题会被放大甚至完全无法使用.
 
-![打板](http://upload-images.jianshu.io/upload_images/1286586-5556c56403bd562a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![打板](https://upload-images.jianshu.io/upload_images/1286586-5556c56403bd562a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 选皮, 下料, 裁出部件
 
 模型经过微调确认后, 选择中意的皮料, 粗略的裁出需要的皮料尺寸, 尽量不要浪费, 更不能不够用. 现在可能会染色, 上点保护油的操作, 待就绪后就需要按模型再精确的裁出具体部件, 按打版时候的计划再拼拼试试, 比方说多张皮贴合的部分需要削薄, 靠内的皮料要先处理. 这步也尤其重要, 刀工不好很难切直, 一个没切好, 到后面贴合的时候会很成问题. (美甲对应的泡软, 削剪指甲)
 
-![下料啦](http://upload-images.jianshu.io/upload_images/1286586-5bb9547903658d3c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![下料啦](https://upload-images.jianshu.io/upload_images/1286586-5bb9547903658d3c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 粗打磨
 
 皮切出来多少会有差别, 尤其是多张皮的时候, 这就需要用到粗砂纸, 要反复的顺一个方向, 把不平的地方磨的平整. (美甲在这步也有很好的体现, 指甲刀剪出来的弧度总是不顺滑的, 要用锉刀摩擦几下才更美观)
 
-![要打磨](http://upload-images.jianshu.io/upload_images/1286586-7fd46522c06a5de9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![要打磨](https://upload-images.jianshu.io/upload_images/1286586-7fd46522c06a5de9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 削边, 细打磨
 
 我们想要更光滑更亮, 就需要用到细砂纸, 甚至镜面砂纸, 也可能会涂上蜡, 又一次朝着同样的方向不断打磨, 直到自己满意. (美甲在这步会用布, 他们说的抛光我估计也是布里有蜡的成分)
 
-![美多了](http://upload-images.jianshu.io/upload_images/1286586-17aa19c6aee30bf9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![美多了](https://upload-images.jianshu.io/upload_images/1286586-17aa19c6aee30bf9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 封边
 
@@ -52,7 +52,7 @@ tags:
 
 > 打磨和封边需要的更多的是技巧, 新手老手做出来差距太大, 细节更多体现在这里; 而手缝则更多的需要耐心和纪律, 同样的斩孔, 新手老手手缝出来效果不会差太多. 
 
-![打斩后, 要缝线了](http://upload-images.jianshu.io/upload_images/1286586-fec73fcad0ff13b2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![打斩后, 要缝线了](https://upload-images.jianshu.io/upload_images/1286586-fec73fcad0ff13b2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 装饰
 

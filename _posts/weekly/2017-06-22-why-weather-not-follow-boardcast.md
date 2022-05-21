@@ -11,7 +11,7 @@ tags:
 
 早上起来发现并没有下雨，也就更没有预报中的大暴雨，然而天气预报昨天是怎么说的？为什么天气预报那么的不准确，他们花纳税人的钱就这么明着骗我们吗？
 
-![大雨淹没](http://upload-images.jianshu.io/upload_images/1286586-a2d63bde1b536d85.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![大雨淹没](https://upload-images.jianshu.io/upload_images/1286586-a2d63bde1b536d85.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 原因
 
@@ -25,7 +25,7 @@ tags:
 
 而天气就是一个复杂的混沌系统，本身热对流是个很简单的现象，可以抽象为数学公式，但是放在大自然中就产生了很大的随机性，而天气模型精确度的微小差别则会产生巨大差别的天气现象。
 
-![某个晴朗的日子](http://upload-images.jianshu.io/upload_images/1286586-3505a9cc84a9b326.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![某个晴朗的日子](https://upload-images.jianshu.io/upload_images/1286586-3505a9cc84a9b326.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 教训
 

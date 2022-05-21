@@ -17,7 +17,7 @@ tags:
 
 爱美则是生物的天性, 雄狮的毛发, 孔雀的开屏等等... 都是展现英姿, 吸引异性的"美". 从人类直立后, 闲下来的双手就没有停止过修饰自己, 兽牙做的项链, 兽皮做的围裙, 身上涂的图腾. 到了封建社会, 画眉胭脂嘴唇已经非常平常.
 
-![image.png](http://upload-images.jianshu.io/upload_images/1286586-d4400c239f661a51.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/1286586-d4400c239f661a51.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 甚至出现了"易容术"这种高超的技能, 但大多是在现有的基础上**增加或掩饰**. 随着医学的进步, 生活水平的提高, 信息量的发达, 看到的美越多, 越想让自己更美, "整形"和"美容"就随着需求走到了一起, 以下简称"整容".
 
@@ -35,11 +35,11 @@ tags:
 - 虽然美了, 但是就不告诉别人这个事实.
 - 确实美了, 而且上瘾很深.
 
-![钟形?](http://upload-images.jianshu.io/upload_images/1286586-7c81366d3075dbe9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![钟形?](https://upload-images.jianshu.io/upload_images/1286586-7c81366d3075dbe9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 随着时间的推移, 支持整容的人会越来越多, 不支持的渐渐老去... 感觉生理强化也会是一样的态度曲线, 波峰渐渐右移. 但始终有人不化妆不是? 有些人还不洗脸呢! 不管是因为缺水还是缺心, 处于每个心理状态的人始终都是存在的.
 
 强化是永远没有终点的, 就像整容也不会有公认的完美, "美"是一种间接的能力, 而"强化"是一种直接的能力, 不平等变得直接而巨大... "美"是让别人感觉好, 最终有利于自己; 而"强化"是压倒别人而有利于自己?
 
-![强化的就是神](http://upload-images.jianshu.io/upload_images/1286586-4891f90f2fcf2456.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![强化的就是神](https://upload-images.jianshu.io/upload_images/1286586-4891f90f2fcf2456.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 

@@ -6,7 +6,7 @@ tags:
 
 ---
 
-![h5 截图]({{ site.localimg }}img/wk-capture.jpeg)
+![h5 截图]({{ site.assets }}img/wk-capture.jpeg)
 
 上图是我们微信内 <客栈大学> 的详情页面, 我们有老师在微信群内讲课, 然后希望将微信内讲的内容做成网页回放. 展现模式还是模仿群内的交互.
 

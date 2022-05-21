@@ -12,15 +12,15 @@ tags:
 
 摩拜最有创新, 迭代速度令人惊叹, 刚开始的实心胎, 后来变成蜂窝状. 转动铃铛, 升降座椅, 印象也是摩拜先配备, 第一代的传动和刹车方式也是只有他那么做. 锁至今也是最智能高效的一款. 这些硬件的创新, 虽然成本很高, 但是在很长时间里都减少了损坏 (我从没遇到过摩拜的坏车). 而在营销上: 红包车, 京东雪碧集贴纸活动, 不仅吸引用户, 也解决了自己的问题. **摩拜有点像是"从头算", "颠覆式"的思维, 她没有恶意的竞争, 一直在自我思考进步**.
 
-![充满科技感觉的重新设计](http://upload-images.jianshu.io/upload_images/1286586-2c86b4ede5689ec4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![充满科技感觉的重新设计](https://upload-images.jianshu.io/upload_images/1286586-2c86b4ede5689ec4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 小黄车(ofo) 感觉是个不思进取的家伙, 1年前我还觉得 ofo 是站在用户角度看问题(因为 ofo 第一代车和普通自行车结构没什么不同, 而摩拜推出的第一代感觉太难骑, 为了自己好维修, 而不考虑用户的感受), 后来摩拜在迅速的迭代中越来越好骑, 而 ofo 却推出了更难骑的小小黄车, 后来老款车也都换成了实心胎, 损坏率奇高, **骑不走的比骑走的多, 骑走了很多也咣当响, 所以我现在都不扫小黄车了. "小黄车" 这个名字和颜色确实好, 广告也下力气**.
 
-![图来自 ofo 微博](http://upload-images.jianshu.io/upload_images/1286586-3c0ced48404ece28.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![图来自 ofo 微博](https://upload-images.jianshu.io/upload_images/1286586-3c0ced48404ece28.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 小蓝车是个后起之秀, 名字也够好记, 就是颜色不够酷, 但是技术含量较高, 貌似唯一一家带变速的, 而这种变速箱好像是内置的不需要后期的调教, 轮圈, 车架感觉都大一号, 骑起来轻巧而舒适. 但是我很怀疑, 平坦短距离的骑行对于变速的使用量有多大? 冷色调的车是不是在男性或大龄群体使用率更高?
 
-![小蓝车的变速箱](http://upload-images.jianshu.io/upload_images/1286586-eb09f26e2899a31f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![小蓝车的变速箱](https://upload-images.jianshu.io/upload_images/1286586-eb09f26e2899a31f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 其他颜色车, 太 low, 尤其彩虹车和土豪金车, 配图我都不想配... 我不知道他们是怎么想的. 也不想骑.
 
@@ -28,9 +28,9 @@ tags:
 
 我一直都觉得我骑24速变速车, 肯定比骑共享单车快很多很多吧, 这个结论来源于每天骑车时超过他们很多, 出汗量也大很多, 然而从数据来看, 并非如此, 下面两张图, 第一个是我的爱车, 第二个是摩拜, 路线基本一致. 均速和最高速可以看出, 其实差距非常小. 我刚看到这个的时候我是崩溃的, 我奋力的骑, 追求高的踏频, 大汗淋漓的感觉, 最后就只领先 2 分钟?
 
-![变速车的数据](http://upload-images.jianshu.io/upload_images/1286586-4e2fbc445af82d7e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![变速车的数据](https://upload-images.jianshu.io/upload_images/1286586-4e2fbc445af82d7e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![摩拜的数据](http://upload-images.jianshu.io/upload_images/1286586-a89d5ce870213cf9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![摩拜的数据](https://upload-images.jianshu.io/upload_images/1286586-a89d5ce870213cf9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 后来忽然想到:
 

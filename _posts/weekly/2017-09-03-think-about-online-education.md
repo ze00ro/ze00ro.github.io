@@ -20,7 +20,7 @@ tags:
 
 而很多运动的教程则更加的笼统, 也不是老师教的不好, 而是需要找到对应的感觉, 比如滑板里的"荡板", 动作简单, 却是整个身体的协调, 与其搞懂每个分解动作的力, 不如自己去试试.
 
-![tick-tack](http://upload-images.jianshu.io/upload_images/1286586-574efd9ab8894f9f.gif?imageMogr2/auto-orient/strip)
+![tick-tack](https://upload-images.jianshu.io/upload_images/1286586-574efd9ab8894f9f.gif?imageMogr2/auto-orient/strip)
 
 问题就在这里, 感受型需要不断的尝试, 纠正. 而现在的在线教育基本都做不到, 即使可以反馈, 反馈方式也受到极大的限制. 比如上面的 "荡板", 如果尝试中遇到了问题, 怎么录下来, 让谁去找问题? 谁愿意给看问题? 
 

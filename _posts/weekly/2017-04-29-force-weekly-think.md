@@ -13,7 +13,7 @@ tags:
 
 我不禁问我自己的内心：什么事不难？乘法口诀烂熟于心。而当时背诵口诀也很难，为什么当时没抱怨？我觉得可能还是好奇心？或当时知道的太少？
 
-![渐渐消失的水波](http://upload-images.jianshu.io/upload_images/1286586-373f4582e523fc93.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![渐渐消失的水波](https://upload-images.jianshu.io/upload_images/1286586-373f4582e523fc93.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 也许就像一个水滴掉在湖里，刚开始充满好奇，泛起了涟漪，随着扩散，也不知是因为没了力量，还是觉得边界太远没了心力，渐渐迷失在了湖里。
 

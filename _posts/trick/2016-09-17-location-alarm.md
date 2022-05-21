@@ -14,11 +14,11 @@ tags:
 
 **打开"提醒事项", 像往常一样录入事项**
 
-![save-todo](http://upload-images.jianshu.io/upload_images/1286586-b8109a3f6eeb06a5.gif?imageMogr2/auto-orient/strip)
+![save-todo](https://upload-images.jianshu.io/upload_images/1286586-b8109a3f6eeb06a5.gif?imageMogr2/auto-orient/strip)
 
 **点击后面的感叹号, 进入详情编辑, 开启位置提醒. 拖动黑色小圈来划定区域, 再次进入或出去这片区域的意思**
 
-![find-loc](http://upload-images.jianshu.io/upload_images/1286586-5798dcb58ad2e339.gif?imageMogr2/auto-orient/strip)
+![find-loc](https://upload-images.jianshu.io/upload_images/1286586-5798dcb58ad2e339.gif?imageMogr2/auto-orient/strip)
 
 **当你再次进入这边区域的时候, 就会收到提醒**
 

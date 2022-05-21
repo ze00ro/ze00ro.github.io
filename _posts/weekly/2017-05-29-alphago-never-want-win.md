@@ -27,7 +27,7 @@ tags:
 
 有研究发现我们的大脑可以被外部设备控制, 随着微弱电流的刺激, 我们的大脑会做出对应的反应, 如此看来我们也可能是部"机器", 或者说也可能成为一部"机器", 只是我们还无法理解自身.
 
-![听到声音的猫咪在寻找](http://upload-images.jianshu.io/upload_images/1286586-3d5f389c8daf3f2f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![听到声音的猫咪在寻找](https://upload-images.jianshu.io/upload_images/1286586-3d5f389c8daf3f2f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 我们大概会成为一种被称为"人类"的动物, 乐观的说机器为我们做了所有的事情, 我们每天旅行拍照, 美食, 豪车, 看书看电影... 悲观的说**我们成为了机器的宠物, 我们并不能听懂机器间的交流, 而他们大概知道我们的所有事情. 他们有时候爱我们, 但不是全部, 就像有些人不爱小动物一样.**
 
@@ -35,7 +35,7 @@ tags:
 
 "生命为什么会争斗?" 这是鼬一生的疑问, 不管是上学打闹, 世界战争, 生命总是在"出生, 争斗, 死去". 鼬也认为争斗可以被制止, 生命可以被拯救.
 
-![鼬的疑问与一生的希望](http://upload-images.jianshu.io/upload_images/1286586-7c922dcc6aab0222.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![鼬的疑问与一生的希望](https://upload-images.jianshu.io/upload_images/1286586-7c922dcc6aab0222.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 即使村子内部是和平的, 各个村间也是经常战争. 无论是斑, 带土, 鸣人, 都想用自己的方式实现世界和平. 邪恶的一方想控制所有人的大脑, 让每个人活在自己的美梦中. 正义的一方则想用爱把人连接在一起, 互为羁绊. 
 

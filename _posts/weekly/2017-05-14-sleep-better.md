@@ -9,7 +9,7 @@ tags:
 
 每天都要睡觉, 却无法精通于此, 甚至有时候完全无法入睡. 我一直入睡慢, 睡得轻. 而近几年已经改善了很多. 分享一些观点.
 
-![睡在这么美的地方, 好友sunshine的手绘](http://upload-images.jianshu.io/upload_images/1286586-3d5866eaf81a8839.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![睡在这么美的地方, 好友sunshine的手绘](https://upload-images.jianshu.io/upload_images/1286586-3d5866eaf81a8839.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 > 我觉得失眠分为三种: 环境因素, 身体因素 (不需要睡, 不想睡, 神经衰弱), 以及疾病致使的神经问题或疼痛引起失眠. 第三种由于还没有经历过, 不在此文讨论.
 
@@ -30,7 +30,7 @@ tags:
 
 **体温变化是影响睡眠的一个重要因素. 正常体温是在36-38间波动的, 体温升高人就会觉得更清醒, 体温下降就会觉得疲乏.** 例如大夏天你从室外进入空调房, 会觉得瞌睡; 冬天冷的不想动, 去室外跑一圈出汗了就会觉得爽, 但是停下来休息一会, 又会想休息. 而这种体温节律是生物几亿年进化而来的. 而如果这种波动太平, 就会难入睡, 睡的不熟.
 
-![体温节律](http://upload-images.jianshu.io/upload_images/1286586-40f97a9779416942.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![体温节律](https://upload-images.jianshu.io/upload_images/1286586-40f97a9779416942.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 > 据说中午有困意是因为很久很久以前中午日晒太强, 人类总是躲起来休息, 没躲起来的都晒死了, 有午间休息习惯的人就延续了下来...
 

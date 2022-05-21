@@ -9,7 +9,7 @@ tags:
 
 ## 数据
 
-![百度指数近半年](http://upload-images.jianshu.io/upload_images/1286586-05037955515204b3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![百度指数近半年](https://upload-images.jianshu.io/upload_images/1286586-05037955515204b3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 微信指数也差不太多, 总体来看 KFC 数据更多一些. 这就很奇怪了, 为什么我会觉得 MC 比较厉害? 
 
@@ -30,23 +30,23 @@ KFC 以前的点餐模式是: 全是收银柜台, 收银员收完钱, 再去把�
 
 从实际使用, MC 的大屏更好用: 响应速度极快, 一屏可以看到10几种高清美味的图片. 而在手机上只能看到四五个很小的图标... 每次用 MC 大屏都觉得自己是上帝的感觉. 再也不用为看不清东西, 不知道吃啥而苦恼了. 关键大屏点了餐和收银台点餐是平等的, 价格一致, 活动一致, 出餐队列一致.
 
-![大了就是好](http://upload-images.jianshu.io/upload_images/1286586-09a988879af53658.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![大了就是好](https://upload-images.jianshu.io/upload_images/1286586-09a988879af53658.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 最近发现 MC 可以点东西, 像发红包一样发给微信好友, 好友直接去领饭就好了, 这个虽然不是什么新鲜玩意, 但也能看到它对于技术的运用能力高出 KFC 不少.
 
-![麦当劳红包](http://upload-images.jianshu.io/upload_images/1286586-b4814cced9f0162a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![麦当劳红包](https://upload-images.jianshu.io/upload_images/1286586-b4814cced9f0162a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 网络营销的不同路线
 
 KFC 的广告逼格不高, 举几个 MC 的例子
 
-![顺丰麦乐送, 30分钟](http://upload-images.jianshu.io/upload_images/1286586-e9255c8523a77366.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![顺丰麦乐送, 30分钟](https://upload-images.jianshu.io/upload_images/1286586-e9255c8523a77366.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 我觉得顺丰肯定是想进同城闪送的...
 
-![微信朋友圈广告](http://upload-images.jianshu.io/upload_images/1286586-06c76ca4b5b64281.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![微信朋友圈广告](https://upload-images.jianshu.io/upload_images/1286586-06c76ca4b5b64281.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![摩拜骑车甜筒活动](http://upload-images.jianshu.io/upload_images/1286586-e204fd1b272641c5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![摩拜骑车甜筒活动](https://upload-images.jianshu.io/upload_images/1286586-e204fd1b272641c5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 而 KFC 只在公交站看到过, 难道是我脱离主流了? 还是说 KFC 不在主流里投广告? 而且公交站都是食物的概念图... 你也知道, 这个和吃到的食物基本不一样...
 
